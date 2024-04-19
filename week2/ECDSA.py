@@ -46,5 +46,3 @@ def main(message):
     else:
         print("signature is invalid.")
 
-if __name__=="__main__":
-    main('I love ZK!')
